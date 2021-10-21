@@ -11,7 +11,7 @@ npx tsc
 
 node .\dist\index.js
 
-node i -D typescript ts-node nodemon @types/node
+npm i -D typescript ts-node nodemon @types/node
 
 
 npm i mysql2  
